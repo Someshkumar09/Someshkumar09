@@ -58,19 +58,6 @@
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/python--v1.png" width="50" height="50" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="50" height="50" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" alt="Canva"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/CapCut_logo.png" width="48" height="48" alt="CapCut"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Alight_Motion_logo.png" width="48" height="48" alt="Alight Motion"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
-</p>
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Someshkumar09&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
