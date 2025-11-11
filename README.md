@@ -76,9 +76,27 @@
 ---
 
 ## 💬 Connect With Me
+
 <p align="center">
-  <a href="https://www.youtube.com/@DynamoLogoutYT"><img src="https://img.shields.io/badge/YouTube-Dynamo_Logout_YT-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://github.com/Someshkumar09"><img src="https://img.shields.io/badge/GitHub-Someshkumar09-black?style=for-the-badge&logo=github"></a>
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@DynamoLogoutYT" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Dynamo_Logout_YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Someshkumar09" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Someshkumar09-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/somesh___09/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-somesh___09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/somesh-gouda-1020a432b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Somesh_Gouda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
