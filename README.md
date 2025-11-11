@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">👋 Hi, I'm Somu</h1>
+<h1 align="center">👋 Hi, I'm Somesh Gouda</h1>
 
 <p align="center">
   🚀 Engineering | 💻 Data Enthusiast | 🎥 YouTuber <br>
