@@ -34,10 +34,31 @@
 </div>
 
 ---
-
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,canva,github,git,vscode,powerbi,mysql,c,alightmotion,java" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+  
+  <!-- SQL -->
+  <img src="https://img.icons8.com/ios-filled/100/4479A1/sql.png" width="50" height="50" alt="SQL" />
+  
+  <!-- Excel -->
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel" />
+  
+  <!-- Power BI -->
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI" />
+  
+  <!-- Canva -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Canva_icon_2021.svg" width="50" height="50" alt="Canva" />
+  
+  <!-- Alight Motion -->
+  <img src="https://seeklogo.com/images/A/alight-motion-logo-70EFB36643-seeklogo.com.png" width="50" height="50" alt="Alight Motion" />
+  
+  <!-- C -->
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="50" alt="C" />
+  
+  <!-- C++ -->
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++" />
 </p>
 
 ---
