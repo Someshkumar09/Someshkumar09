@@ -24,8 +24,10 @@
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
     <img src="https://raw.githubusercontent.com/Someshkumar09/Someshkumar09/main/hqdefault.jpg" 
-         width="70%" alt="My YouTube Edit Playlist Thumbnail" />
+         width="70%" alt="SQL Data Warehouse Playlist Thumbnail" />
   </a>
+
+  <br><br>
 
   <br><br>
   <br><br>
