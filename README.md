@@ -36,28 +36,14 @@
 ---
 ## 🧰 Tech Stack
 <p align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-
-  <!-- SQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="SQL" />
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
-
-  <!-- Power BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" />
-
-  <!-- Canva (fixed working link) -->
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-canva-3521532-2945020.png" width="50" height="50" alt="Canva" />
-
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-
-  <!-- C++ -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" width="50" height="50" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="50" height="50" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50" alt="Power BI"/>
+  <img src="https://img.icons8.com/fluency/48/canva.png" width="50" height="50" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
 </p>
-
 
 ---
 
