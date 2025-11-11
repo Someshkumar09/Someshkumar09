@@ -22,7 +22,7 @@
 ## 🎬 Youtube Edit Playlist
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
-    <img src="https://img.youtube.com/vi/0QWZxyi7CzA/maxresdefault.jpg" width="75%" alt="SQL Data Warehouse Playlist Thumbnail">
+   https://i.ytimg.com/vi/UZIq8-Da06A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCyi4GsaR_5K87OdpWHCRBlcKmEFw alt="Playlist Thumbnail">
   </a>
   
   <br><br>
