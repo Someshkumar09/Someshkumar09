@@ -37,7 +37,7 @@
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,github,git,vscode,powerbi,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,excel,github,git,vscode,powerbi,mysql,c,c++,java" />
 </p>
 
 ---
