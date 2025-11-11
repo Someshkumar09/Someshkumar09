@@ -19,7 +19,7 @@
 
 ---
 
-## 🎬 Featured Playlist: SQL Data Warehouse Project
+## 🎬 Youtube Edit Playlist
 <div align="center">
   <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
     <img src="https://img.youtube.com/vi/0QWZxyi7CzA/maxresdefault.jpg" width="75%" alt="SQL Data Warehouse Playlist Thumbnail">
