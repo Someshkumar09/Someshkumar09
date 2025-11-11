@@ -29,7 +29,7 @@
 
   <br><br>
   
-  🎯 **[Watch Full Playlist Here](https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q)**  
+  🎯 **[Watch Full Edited Playlist Here](https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q)**  
 
 </div>
 
