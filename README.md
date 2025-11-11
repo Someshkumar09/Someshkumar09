@@ -57,39 +57,7 @@
   <!-- C++ -->
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
 </p>
-## 🧰 Tech Stack
-<p align="center">
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/48/python--v1.png" width="50" height="50" alt="Python"/>
-
-  <!-- SQL / MySQL -->
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="50" height="50" alt="MySQL"/>
-
-  <!-- Excel -->
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="50" height="50" alt="Excel"/>
-
-  <!-- Power BI -->
-  <img src="https://img.icons8.com/fluency/48/power-bi.png" width="50" height="50" alt="Power BI"/>
-
-  <!-- Canva -->
-  <img src="https://img.icons8.com/fluency/48/canva.png" width="50" height="50" alt="Canva"/>
-
-  <!-- CapCut -->
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" height="50" alt="CapCut"/>
-
-  <!-- Alight Motion -->
-  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/alight_motion_logo_icon_249313.png" width="50" height="50" alt="Alight Motion"/>
-
-  <!-- C -->
-  <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
-
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
-</p>
-
-
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Someshkumar09&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
