@@ -75,10 +75,10 @@
   <img src="https://img.icons8.com/fluency/48/canva.png" width="50" height="50" alt="Canva"/>
 
   <!-- CapCut -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CapCut_Logo.png/512px-CapCut_Logo.png" width="50" height="50" alt="CapCut"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" height="50" alt="CapCut"/>
 
   <!-- Alight Motion -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Alight_Motion_logo.png" width="50" height="50" alt="Alight Motion"/>
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/alight_motion_logo_icon_249313.png" width="50" height="50" alt="Alight Motion"/>
 
   <!-- C -->
   <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
