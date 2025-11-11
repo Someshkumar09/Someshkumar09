@@ -52,10 +52,10 @@
   <img src="https://img.icons8.com/fluency/48/canva.png" width="50" height="50" alt="Canva"/>
   
   <!-- CapCut -->
-  <img src="https://seeklogo.com/images/C/capcut-logo-92375D60E6-seeklogo.com.png" width="50" height="50" alt="CapCut"/>
+  https://www.pngall.com/wp-content/uploads/2021/06/CapCut-Logo-PNG-Image.png
   
   <!-- Alight Motion -->
-  <img src="https://seeklogo.com/images/A/alight-motion-logo-70EFB36643-seeklogo.com.png" width="50" height="50" alt="Alight Motion"/>
+ https://freepnglogo.com/wp-content/uploads/2021/08/Alight-Motion-Logo.png
   
   <!-- C -->
   <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
