@@ -17,6 +17,9 @@
 - 🎯 Love building dashboards, automating reports, and exploring data stories.
 - 🎥 Running my own YouTube channel — [**Dynamo Logout YT**](https://www.youtube.com/@DynamoLogoutYT)
 
+- 💼 LinkedIn Profile
+<p align="center"> <a href="[https://www.linkedin.com/in/someshkumar09](https://img.shields.io/badge/LinkedIn-Somesh_Gouda-0077B5)" target="_blank"> <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn Profile" width="80" height="80"/> </a> </p> <p align="center"> <b>Click the LinkedIn icon to visit my professional profile</b> 💼 </p> <p align="center"> 🔗 <a href="https://www.linkedin.com/in/someshkumar09" target="_blank">Visit My LinkedIn Profile</a> </p>
+
 ---
 
 ## 🎬 Youtube Edit Playlist
