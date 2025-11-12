@@ -88,11 +88,9 @@
     <img src="https://img.shields.io/badge/YouTube-Dynamo_Logout_YT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/SomeshGouda" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Someshkumar09-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
+<a href="https://github.com/SomeshGouda" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-SomeshGouda-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/somesh___09/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-somesh___09-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
